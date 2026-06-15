@@ -33,7 +33,7 @@
 
 ### 🌐 Conectemos
 
-- 💻 **Portfolio y Proyectos:** [OsvaldEDiaz.com](URL_DE_TU_PORTFOLIO)
+- 💻 **Portfolio y Proyectos:** [[OsvaldEDiaz.com](https://github.com/OsvaldoEDiaz?tab=repositories)](URL_DE_TU_PORTFOLIO)
 - 🛒 **Mi Emprendimiento:** [Everdiv Marketplace](https://everdiv.com.ar)
 - 🤝 **LinkedIn:** [Mi Perfil Profesional](https://linkedin.com/in/TU_USUARIO)
 - 📧 **Email:** tu-correo@gmail.com
