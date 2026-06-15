@@ -26,7 +26,7 @@
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Osvaldo-E-Diaz&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Estadísticas de Osvaldo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osvaldo-E-Diaz&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a" alt="Estadísticas de Osvaldo" />
 </div>
 
 ---
