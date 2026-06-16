@@ -1,4 +1,4 @@
-![Banner de Osvaldo](https://via.placeholder.com/1000x250/0a0a0a/00d4ff?text=Osvaldo+Diaz+-+Full+Stack+Developer)
+![Banner de Osvaldo](./Banner.png)
 
 # Hola, soy Osvaldo Diaz 🤘
 
